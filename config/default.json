@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://owlushorler:Shola3819@owlushorler.2hspzcb.mongodb.net/?retryWrites=true&w=majority",
+    "bartersecret":"barter_secret"
+}
